@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bjscoob.github.io/csb-xsjmi/static/css/main.ed29e370.chunk.css",
+    "main.js": "https://bjscoob.github.io/csb-xsjmi/static/js/main.e3bc2f5c.chunk.js",
+    "main.js.map": "https://bjscoob.github.io/csb-xsjmi/static/js/main.e3bc2f5c.chunk.js.map",
+    "runtime-main.js": "https://bjscoob.github.io/csb-xsjmi/static/js/runtime-main.5c6ef807.js",
+    "runtime-main.js.map": "https://bjscoob.github.io/csb-xsjmi/static/js/runtime-main.5c6ef807.js.map",
+    "static/js/2.68d77d13.chunk.js": "https://bjscoob.github.io/csb-xsjmi/static/js/2.68d77d13.chunk.js",
+    "static/js/2.68d77d13.chunk.js.map": "https://bjscoob.github.io/csb-xsjmi/static/js/2.68d77d13.chunk.js.map",
+    "index.html": "https://bjscoob.github.io/csb-xsjmi/index.html",
+    "static/css/main.ed29e370.chunk.css.map": "https://bjscoob.github.io/csb-xsjmi/static/css/main.ed29e370.chunk.css.map",
+    "static/js/2.68d77d13.chunk.js.LICENSE.txt": "https://bjscoob.github.io/csb-xsjmi/static/js/2.68d77d13.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c6ef807.js",
+    "static/js/2.68d77d13.chunk.js",
+    "static/css/main.ed29e370.chunk.css",
+    "static/js/main.e3bc2f5c.chunk.js"
+  ]
+}
